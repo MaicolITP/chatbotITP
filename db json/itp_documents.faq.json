@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "665e3c771fbd633e22f55f5e"
+  },
+  "question": "¿Cuál es el proceso de admisión en la institución en el itp?",
+  "answer": "El proceso de admisión en la institución incluye la presentación de la documentación requerida, la realización de pruebas de conocimientos específicos si es necesario, la evaluación de requisitos académicos y la revisión de antecedentes educativos y profesionales. Posteriormente, se emite una resolución de admisión por parte de las autoridades competentes.",
+  "category": "Estatuto General"
+},
+{
+  "_id": {
+    "$oid": "665e3d511fbd633e22f55f65"
+  },
+  "question": "¿Cuáles son los requisitos para solicitar un título honorífico en el itp?",
+  "answer": "Los requisitos para solicitar un título honorífico en la institución suelen incluir criterios como destacada trayectoria académica, profesional o de servicio a la comunidad, reconocimiento público por logros significativos, contribuciones sobresalientes en un campo específico, entre otros méritos relevantes que justifiquen la concesión de dicho título. La solicitud suele requerir la presentación de documentación que respalde los logros y méritos del candidato.",
+  "category": "Estatuto General"
+},
+{
+  "_id": {
+    "$oid": "665e3d751fbd633e22f55f6a"
+  },
+  "question": "¿Cómo se define el calendario de actividades académicas en el itp?",
+  "answer": "El calendario de actividades académicas se define en la institución a través de un proceso que involucra la propuesta inicial de los Decanos de Facultad o sus equivalentes, la revisión y ajustes por parte del Consejo Académico, y finalmente la aprobación por parte del Consejo Directivo. Este calendario incluye fechas importantes como periodos de matrícula, inicio y fin de clases, exámenes, vacaciones académicas, entre otros eventos relevantes para el desarrollo de las actividades académicas en la institución.",
+  "category": "Estatuto General"
+},
+{
+  "_id": {
+    "$oid": "665f700a378822f2c7f954a4"
+  },
+  "question": "¿Requisitos para renovar la matrícula en el Instituto Tecnologico?",
+  "answer": "Para renovar la matrícula en el Instituto Tecnológico del Putumayo, se deben cumplir los siguientes requisitos: Realizar la prematrícula. Liquidar y pagar los derechos de matrícula. Obtener el visto bueno del Docente de Apoyo para matrícula de créditos adicionales. No haber ingresado sin derecho en un período académico, según el Estatuto. Cumplir con los requisitos específicos de cada programa académico.",
+  "category": "Estatuto Estudiantil"
+},
+{
+  "_id": {
+    "$oid": "665f704b378822f2c7f954a8"
+  },
+  "question": "¿Categorías de estudiantes reconocidas por el Instituto Tecnologico?",
+  "answer": "El Instituto Tecnológico del Putumayo reconoce las siguientes categorías de estudiantes: Nuevo: Ingresa por primera vez a un programa académico. En continuidad de ciclos propedéuticos: Continúa estudios tras completar ciclos propedéuticos. Reingreso: Vuelve a matricularse después de interrumpir estudios. Transferencia interna o externa: Se traslada desde otro programa interno o externo. Articulación: Proviene de programas de educación media o del ciclo anterior del Instituto. Estas categorías facilitan la gestión de la matrícula y el seguimiento académico.",
+  "category": "Estatuto Estudiantil"
+},
+{
+  "_id": {
+    "$oid": "665f70a9378822f2c7f954ad"
+  },
+  "question": "¿Cómo se calcula la nota definitiva según el Estatuto estudiantil?",
+  "answer": "Según el Estatuto Estudiantil, la nota definitiva se calcula como un promedio ponderado de las calificaciones del período académico: Dos calificaciones parciales: 30%, cada una. Una calificación final: 40%. El total es el 100%. Para habilitación, se usa la nota de la prueba de habilitación. Para homologación, se usa la calificación certificada o su equivalente. En validación, se usa la nota de la prueba certificada por el docente.",
+  "category": "Estatuto Estudiantil"
+},
+{
+  "_id": {
+    "$oid": "666238350fcda0acc1c763cc"
+  },
+  "question": "¿Cuáles son las prohibiciones para los docentes segun el estatuto?",
+  "answer": "Según el Estatuto Docente mencionado en el PDF proporcionado, algunas de las prohibiciones para los docentes son las siguientes:Ejercer actos de discriminación política, étnica, religiosa u de otra índole.Presentarse al trabajo en estado de embriaguez o bajo la influencia de narcóticos o drogas enervantes.Abandonar o suspender sus labores sin autorización previa, impedir o tratar de impedir el normal ejercicio de las actividades de la institución.",
+  "category": "Estatuto Docente"
+},
+{
+  "_id": {
+    "$oid": "666238660fcda0acc1c763d0"
+  },
+  "question": "¿Cómo se evalúan los trabajos de investigación de los docentes?",
+  "answer": "Los trabajos de investigación de los docentes se evalúan de la siguiente manera, según el Estatuto Docente mencionado en el PDF: Por investigaciones publicadas en forma de libro se asignan 12 puntos.Por investigaciones publicadas en forma de artículo en revistas especializadas se asignan 8 puntos.Por investigaciones publicadas en áreas tecnológicas, humanísticas y socioeconómicas que se concreten en proyectos, diseños o propuestas tecnológicas, humanísticas o socioeconómicas orientadas en la solución de problemas de la comunidad, aun sin estar publicadas, se asignan 10 puntos.",
+  "category": "Estatuto Docente"
+},
+{
+  "_id": {
+    "$oid": "6662389d0fcda0acc1c763d4"
+  },
+  "question": "¿Qué se entiende por actividades académico-administrativas?",
+  "answer": "Según el Estatuto Docente mencionado en el PDF, se entiende por actividades académico-administrativas la experiencia adquirida en la conducción de instituciones de carácter académico científico legalmente reconocidas. Además, se otorgan puntajes específicos según el nivel de responsabilidad en dichas actividades, como dirección, subdirección y supervisión. ",
+  "category": "Estatuto Docente"
+}]

@@ -1,0 +1,870 @@
+[{
+  "_id": {
+    "$oid": "665506d3f0c84a969771ea98"
+  },
+  "keyword": "instituto"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771ea99"
+  },
+  "keyword": "Instituto"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771ea9a"
+  },
+  "keyword": "putumayo"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771ea9b"
+  },
+  "keyword": "Putumayo"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771ea9c"
+  },
+  "keyword": "itp"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771ea9d"
+  },
+  "keyword": "ITP"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771ea9e"
+  },
+  "keyword": "programas"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771ea9f"
+  },
+  "keyword": "Programas"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eaa0"
+  },
+  "keyword": "académico"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eaa1"
+  },
+  "keyword": "academico"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eaa2"
+  },
+  "keyword": "Académico"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eaa3"
+  },
+  "keyword": "Academico"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eaa4"
+  },
+  "keyword": "admisiones"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eaa5"
+  },
+  "keyword": "Admisiones"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eaa6"
+  },
+  "keyword": "cursos"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eaa7"
+  },
+  "keyword": "Cursos"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eaa8"
+  },
+  "keyword": "facultad"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eaa9"
+  },
+  "keyword": "Facultad"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eaaa"
+  },
+  "keyword": "campus"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eaab"
+  },
+  "keyword": "Campus"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eaac"
+  },
+  "keyword": "docentes"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eaad"
+  },
+  "keyword": "Docentes"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eaae"
+  },
+  "keyword": "estudiantil"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eaaf"
+  },
+  "keyword": "Estudiantil"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eab0"
+  },
+  "keyword": "general"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eab1"
+  },
+  "keyword": "General"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eab2"
+  },
+  "keyword": "título"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eab3"
+  },
+  "keyword": "titulo"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eab4"
+  },
+  "keyword": "Título"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eab5"
+  },
+  "keyword": "Titulo"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eab6"
+  },
+  "keyword": "ciclo"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eab7"
+  },
+  "keyword": "Ciclo"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eab8"
+  },
+  "keyword": "profesional"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eab9"
+  },
+  "keyword": "Profesional"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eaba"
+  },
+  "keyword": "tecnológico"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eabb"
+  },
+  "keyword": "tecnologico"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eabc"
+  },
+  "keyword": "Tecnológico"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eabd"
+  },
+  "keyword": "Tecnologico"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eabe"
+  },
+  "keyword": "estudiante"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eabf"
+  },
+  "keyword": "Estudiante"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eac0"
+  },
+  "keyword": "estatuto"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eac1"
+  },
+  "keyword": "Estatuto"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eac2"
+  },
+  "keyword": "requisitos"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eac3"
+  },
+  "keyword": "Requisitos"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eac4"
+  },
+  "keyword": "matrícula"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eac5"
+  },
+  "keyword": "matricula"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eac6"
+  },
+  "keyword": "Matrícula"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eac7"
+  },
+  "keyword": "Matricula"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eac8"
+  },
+  "keyword": "calificación"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eac9"
+  },
+  "keyword": "calificacion"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eaca"
+  },
+  "keyword": "Calificación"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eacb"
+  },
+  "keyword": "Calificacion"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eacc"
+  },
+  "keyword": "examen"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eacd"
+  },
+  "keyword": "Examen"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eace"
+  },
+  "keyword": "prueba"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eacf"
+  },
+  "keyword": "Prueba"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771ead0"
+  },
+  "keyword": "validación"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771ead1"
+  },
+  "keyword": "validacion"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771ead2"
+  },
+  "keyword": "Validación"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771ead3"
+  },
+  "keyword": "Validacion"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771ead4"
+  },
+  "keyword": "nota"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771ead5"
+  },
+  "keyword": "Nota"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771ead6"
+  },
+  "keyword": "unidad"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771ead7"
+  },
+  "keyword": "Unidad"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771ead8"
+  },
+  "keyword": "formación"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771ead9"
+  },
+  "keyword": "formacion"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eada"
+  },
+  "keyword": "Formación"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eadb"
+  },
+  "keyword": "Formacion"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eadc"
+  },
+  "keyword": "actividades"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eadd"
+  },
+  "keyword": "Actividades"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eade"
+  },
+  "keyword": "función"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eadf"
+  },
+  "keyword": "funcion"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eae0"
+  },
+  "keyword": "Función"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eae1"
+  },
+  "keyword": "Funcion"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eae2"
+  },
+  "keyword": "proyectos"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eae3"
+  },
+  "keyword": "Proyectos"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eae4"
+  },
+  "keyword": "desarrollo"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eae5"
+  },
+  "keyword": "Desarrollo"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eae6"
+  },
+  "keyword": "investigación"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eae7"
+  },
+  "keyword": "Investigacion"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eae8"
+  },
+  "keyword": "Investigación"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eae9"
+  },
+  "keyword": "investigacion"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eaea"
+  },
+  "keyword": "artículo"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eaeb"
+  },
+  "keyword": "articulo"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eaec"
+  },
+  "keyword": "Artículo"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eaed"
+  },
+  "keyword": "Articulo"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eaee"
+  },
+  "keyword": "parágrafo"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eaef"
+  },
+  "keyword": "paragrafo"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eaf0"
+  },
+  "keyword": "Parágrafo"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eaf1"
+  },
+  "keyword": "Paragrafo"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eaf2"
+  },
+  "keyword": "puntaje"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eaf3"
+  },
+  "keyword": "Puntaje"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eaf4"
+  },
+  "keyword": "producción"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eaf5"
+  },
+  "keyword": "produccion"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eaf6"
+  },
+  "keyword": "Producción"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eaf7"
+  },
+  "keyword": "Produccion"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eaf8"
+  },
+  "keyword": "remuneración"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eaf9"
+  },
+  "keyword": "remuneracion"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eafa"
+  },
+  "keyword": "Remuneración"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eafb"
+  },
+  "keyword": "Remuneracion"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eafc"
+  },
+  "keyword": "derechos"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eafd"
+  },
+  "keyword": "Derechos"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eafe"
+  },
+  "keyword": "deberes"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eaff"
+  },
+  "keyword": "Deberes"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eb00"
+  },
+  "keyword": "consejo"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eb01"
+  },
+  "keyword": "Consejo"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eb02"
+  },
+  "keyword": "directivo"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eb03"
+  },
+  "keyword": "Directivo"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eb04"
+  },
+  "keyword": "superior"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eb05"
+  },
+  "keyword": "Superior"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eb06"
+  },
+  "keyword": "autonomía"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eb07"
+  },
+  "keyword": "autonomia"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eb08"
+  },
+  "keyword": "Autonomía"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eb09"
+  },
+  "keyword": "Autonomia"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eb0a"
+  },
+  "keyword": "administración"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eb0b"
+  },
+  "keyword": "administracion"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eb0c"
+  },
+  "keyword": "Administración"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eb0d"
+  },
+  "keyword": "Administracion"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eb0e"
+  },
+  "keyword": "integración"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eb0f"
+  },
+  "keyword": "Integracion"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eb10"
+  },
+  "keyword": "Integración"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eb11"
+  },
+  "keyword": "integracion"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eb12"
+  },
+  "keyword": "rector"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eb13"
+  },
+  "keyword": "Rector"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eb14"
+  },
+  "keyword": "rectora"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eb15"
+  },
+  "keyword": "Rectora"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eb16"
+  },
+  "keyword": "decano"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eb17"
+  },
+  "keyword": "Decano"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eb18"
+  },
+  "keyword": "decana"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eb19"
+  },
+  "keyword": "Decana"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eb1a"
+  },
+  "keyword": "reglamentos"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eb1b"
+  },
+  "keyword": "Reglamentos"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eb1c"
+  },
+  "keyword": "organización"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eb1d"
+  },
+  "keyword": "Organizacion"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eb1e"
+  },
+  "keyword": "Organización"
+},
+{
+  "_id": {
+    "$oid": "665506d3f0c84a969771eb1f"
+  },
+  "keyword": "organizacion"
+},
+{
+  "_id": {
+    "$oid": "66552b75632755d833e37095"
+  },
+  "keyword": "materias"
+},
+{
+  "_id": {
+    "$oid": "66552ce7632755d833e370b2"
+  },
+  "keyword": "materia"
+},
+{
+  "_id": {
+    "$oid": "66567bebeb6112224a21be38"
+  },
+  "keyword": "creditos"
+},
+{
+  "_id": {
+    "$oid": "66567bfdeb6112224a21be40"
+  },
+  "keyword": "credítos"
+},
+{
+  "_id": {
+    "$oid": "66567d9deb6112224a21be80"
+  },
+  "keyword": "aplazar"
+},
+{
+  "_id": {
+    "$oid": "66567e68eb6112224a21be98"
+  },
+  "keyword": "modulo"
+},
+{
+  "_id": {
+    "$oid": "66567e6feb6112224a21be9e"
+  },
+  "keyword": "módulo"
+},
+{
+  "_id": {
+    "$oid": "66568179eb6112224a21bed5"
+  },
+  "keyword": "mision"
+},
+{
+  "_id": {
+    "$oid": "66621c0a3e57ac73fdede96e"
+  },
+  "keyword": "escalafon"
+}]

@@ -1,0 +1,159 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    /* filter: drop-shadow(-2px 2px 3px #FF2714);*/
+}
+
+h1{
+    text-align: center;
+}
+
+/* barra superior */
+[data-testid="stHeader"]{
+    height:0px;
+    background: rgba(255, 255, 255, 0);
+}
+/* logo */
+[data-testid="stLogo"]{
+    margin:auto;
+}
+
+[data-testid="stVerticalBlock"]{
+    gap: 0.4rem;
+}
+
+/* ------------ input pregunta -------------- */
+/* [data-testid="stChatInput"]{
+    filter: drop-shadow(0px 2px 1px #000000a6);
+} */
+[data-testid="stAppViewBlockContainer"]{
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding: 1.4rem 4rem 2rem;
+}
+
+@media (max-width: 868px) {
+    [data-testid="stAppViewBlockContainer"]{
+        padding-left: 1rem;
+        padding-right: 1rem;
+        padding: 1.4rem 2rem 2rem;
+    }
+
+}
+
+
+/* ------------ barra lateral -------------- */
+[data-testid="stSidebarUserContent"]{
+    padding: 0.2rem 0.5rem 1rem;
+}
+[data-testid="stSidebarUserContent"]{
+    padding: 0.2rem 0.5rem 1rem;
+}
+
+.st-emotion-cache-1itdyc2 {
+    position: relative;
+    top: 4px;
+    background-color: rgb(38, 39, 48);
+    z-index: 999991;
+    min-width: 244px;
+    max-width: 250px;
+    transform: none;
+    transition: transform 300ms ease 0s, min-width 300ms ease 0s, max-width 300ms ease 0s;
+    border-radius: 0px 20px 20px 0px;
+    filter: drop-shadow(0px 0px 6px #ffffffc9);
+}
+
+.st-emotion-cache-1gv3huu {
+    position: relative;
+    top: 4px;
+    background-color: rgb(240, 242, 246);
+    z-index: 999991;
+    min-width: 244px;
+    max-width: 250px;
+    transform: none;
+    transition: transform 300ms ease 0s, min-width 300ms ease 0s, max-width 300ms ease 0s;
+    border-radius: 0px 20px 20px 0px;
+    filter: drop-shadow(0px 0px 6px #000000a6);
+}
+
+.st-emotion-cache-1mi2ry5.eczjsme6{
+    padding: 1.25rem 0.5rem 0.5rem;
+}
+
+/* ------------ linea colores -------------- */
+.st-emotion-cache-1dp5vir {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    height: 0.264rem;
+    background-image: linear-gradient(90deg,
+            #006196,
+            #007F76,
+            #5BCA00,
+            #AAD700,
+            #E5E100,
+            #FFE400,
+            #FFC000,
+            #FF9200,
+            #FF2714);
+    z-index: 999990;
+}
+#stDecoration{
+    visibility: visible;
+}
+.st-emotion-cache-dvne4q {
+    padding: 4rem 0.5rem;
+} 
+
+/* ocultar columna */
+@media (max-width: 768px) {
+    .st-emotion-cache-16tlbb0.e1f1d6gn3 {
+        display: none !important;
+    }
+}
+
+/* body padding */
+/* .block-container.st-emotion-cache-7tauuy.ea3mdgi5 {
+    padding-left: 2rem;
+    padding-right: 1rem;
+    padding: 2.8rem 0.2rem 0rem;
+}
+
+.st-emotion-cache-sx9guh.e1f1d6gn3 {
+    padding: 2px 7px 10px 10px;
+} */
+
+/* ------------ columna de pdf y chat --------------*/
+
+/* .pdf_cont{
+    height: 67.6vh;
+    width: 100%;
+    display: flex;
+    align-items: flex-start;
+    overflow: auto;
+} */
+
+/* -------------- chat moviles --------------
+@media (max-width: 868px) {
+    .st-emotion-cache-axnyet.e1f1d6gn0{
+        min-height: 40vh;
+        height: 66vh;
+        
+    }
+    .st-emotion-cache-bcbmb6.e1f1d6gn0{
+        min-height: 40vh;
+        height: 66vh;
+        
+    }
+
+    /* body en celulares */
+    /* [data-testid="stAppViewBlockContainer"] {
+        padding-left: 1rem;
+        padding-right: 1rem;
+        padding: 3rem 1rem 0rem;
+    } */
+
+/* } */

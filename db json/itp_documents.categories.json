@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "665e3ada1fbd633e22f55f4d"
+  },
+  "category": "Estatuto Estudiantil"
+},
+{
+  "_id": {
+    "$oid": "665e3b1a1fbd633e22f55f51"
+  },
+  "category": "Estatuto General"
+},
+{
+  "_id": {
+    "$oid": "665fea09ef2aab3c820ce969"
+  },
+  "category": "Estatuto Docente"
+}]
