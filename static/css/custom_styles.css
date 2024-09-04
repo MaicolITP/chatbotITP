@@ -1,0 +1,29 @@
+/* custom_styles.css */
+.pdf-container {
+    background-color: #ffffff; /* Color de fondo blanco */
+    border: 1px solid #ddd;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin: 20px 0;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.6;
+    overflow: auto; /* Evitar desbordes */
+    max-height: 500px; /* Limitar altura para evitar desbordes */
+    background-image: url('../img/papel.png'); /* Textura de papel */
+    background-size: cover;
+}
+
+.page-break {
+    display: block;
+    page-break-before: always;
+    margin-top: 20px;
+    border-top: 1px dashed #ccc;
+    text-align: center;
+}
+
+.pdf-text {
+    color: #000000; /* Color de texto negro */
+}
+
+
+

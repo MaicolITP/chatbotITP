@@ -56,8 +56,8 @@ h3{
     top: 4px;
     background-color: rgb(38, 39, 48);
     z-index: 999991;
-    min-width: 244px;
-    max-width: 250px;
+    min-width: 210px;
+    max-width: 210px;
     transform: none;
     transition: transform 300ms ease 0s, min-width 300ms ease 0s, max-width 300ms ease 0s;
     border-radius: 0px 20px 20px 0px;
@@ -69,8 +69,8 @@ h3{
     top: 4px;
     background-color: rgb(240, 242, 246);
     z-index: 999991;
-    min-width: 244px;
-    max-width: 250px;
+    min-width: 210px;
+    max-width: 210px;
     transform: none;
     transition: transform 300ms ease 0s, min-width 300ms ease 0s, max-width 300ms ease 0s;
     border-radius: 0px 20px 20px 0px;
@@ -119,10 +119,12 @@ h3{
     padding: 0.15rem 0.35rem;
     filter: drop-shadow(4px 4px 2px #000000a6);
 } */ 
-.st-emotion-cache-7ym5gk{
-    padding: 0rem 0rem;
+/* .st-emotion-cache-7ym5gk */
+.st-emotion-cache-1vt4y43{
+    padding: 0rem 0.2rem;
     line-height: 1.2;
     flex-wrap: wrap;
+    min-height: 3.5rem;
 }
 .st-emotion-cache-1ab9dzl.e1f1d6gn5 {
     /* display: flex;
@@ -130,7 +132,7 @@ h3{
     justify-content: center;
     align-items: center; */
     padding: 0.15rem 0.35rem;
-    gap: 0.2rem;
+    gap: 0.8rem;
     filter: drop-shadow(0px 1px 0px #ff0000);
 }
 .st-emotion-cache-1ab9dzl.e1f1d6gn5 button{
@@ -188,7 +190,8 @@ h3{
 
 /* -------------- chat -------------- */
 /* claro */
-.st-emotion-cache-axnyet.e1f1d6gn0{
+.st-emotion-cache-11pla4g.e1f1d6gn0{
+/* .st-emotion-cache-axnyet.e1f1d6gn0{ */
     width: 100%;
     max-width: 1200px;
     min-width: 300px;
@@ -200,7 +203,9 @@ h3{
     padding: 0px;
 }
 /* oscuro */
-.st-emotion-cache-bcbmb6.e1f1d6gn0{
+/* .st-emotion-cache-bcbmb6.e1f1d6gn0 */
+.st-emotion-cache-1apb2ab.e1f1d6gn0
+{
     width: 100%;
     max-width: 1200px;
     min-width: 300px;
@@ -238,15 +243,18 @@ h3{
     overflow: auto;
     justify-content: flex-end;
 }*/
+/* -------------- Información -------------- */
+
+
 
 /* -------------- chat moviles -------------- */
 @media (max-width: 868px) {
-    .st-emotion-cache-axnyet.e1f1d6gn0{
+    .st-emotion-cache-11pla4g.e1f1d6gn0{
         min-height: 40vh;
         height: 68vh;
         /* 50vh; */
     }
-    .st-emotion-cache-bcbmb6.e1f1d6gn0{
+    .st-emotion-cache-1apb2ab.e1f1d6gn0{
         min-height: 40vh;
         height: 68vh;
         /* 50vh; */
